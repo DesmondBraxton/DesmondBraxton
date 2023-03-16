@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Desmond Braxton.
-- 👀 I’m interested in IOS development.
-- 🌱 I’m currently learning to code in Swift and SwiftUI.
-- 💞️ I’m looking to collaborate with other IOS developers
+- 👀 I’m ipursuing a career in IOS development and Data Analytics. 
+- 🌱 I’m fluent in SQL ,Swift, Python, Kotlin 
+- 💞️ I’m looking to collaborate with other IOS developers and Data Analysts
 - 📫 The best way to reach me is through my email: braxtond232@gmail.com
 
 <!---
