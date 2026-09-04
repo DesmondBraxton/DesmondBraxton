@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Desmond Braxton.
-- 👀 I’m ipursuing a career in IOS development and Data Analytics. 
-- 🌱 I’m fluent in SQL ,Swift, Python, Kotlin 
-- 💞️ I’m looking to collaborate with other IOS developers and Data Analysts
+- 👀 Data Analytics. 
+- 🌱 I’m fluent in SQL ,Python,
+- 💞️ I’m looking to collaborate with other Data Analysts
 - 📫 The best way to reach me is through my email: braxtond232@gmail.com
 
 <!---
