@@ -91,7 +91,6 @@ I am continuing to build deeper expertise in:
 - PySpark
 
 ---
-
 ## Current Focus
 
 My current portfolio work focuses on building production-style data engineering systems that demonstrate the full data lifecycle:
